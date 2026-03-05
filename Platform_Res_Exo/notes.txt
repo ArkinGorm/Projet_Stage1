@@ -1,0 +1,6 @@
+Password MongoDB:2Pz7Y51FIrsqh4Z7
+MongoDB URL: mongodb+srv://ANAK:2Pz7Y51FIrsqh4Z7@cluster0.ndwxzhs.mongodb.net/
+bcryptjs
+express cors dotenv bcryptjs jsonwebtoken
+npm install -D nodemom
+// Revoir la partie récupération des exercices publiés.
